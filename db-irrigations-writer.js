@@ -1,8 +1,8 @@
 //Firebase Integration
 
-var email = 'ivanboyukliev@gmail.com'
+var email = "*******"
 
-var password = 'ivanbo97'
+var password = "*******"
 
 var firebase = require('firebase')
 
@@ -14,14 +14,14 @@ var currentBrokerUrl;
 var irrigationsPath;
 
 var firebaseConfig = {
-    apiKey: "AIzaSyB6kErDj92fndCa5CbUFMiGrXd8qCgqkmE",
-    authDomain: "plantsirrigationsystem-2d4ed.firebaseapp.com",
-    databaseURL: "https://plantsirrigationsystem-2d4ed-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "plantsirrigationsystem-2d4ed",
-    storageBucket: "plantsirrigationsystem-2d4ed.appspot.com",
-    messagingSenderId: "108297581540",
-    appId: "1:108297581540:web:b0a4a01e2babab66b9cdf1",
-    measurementId: "G-PMET83X85S"
+    apiKey: "******",
+    authDomain: "*******",
+    databaseURL: "*******",
+    projectId: "*******",
+    storageBucket: "*******",
+    messagingSenderId: "*******",
+    appId: "*******",
+    measurementId: "*******"
   };
   
 
